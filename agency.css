@@ -534,7 +534,7 @@ ul.chatHistory li {
 }
 #their-video{
   width:100%;
-  height:100%;
+  height:400px;
 }
 #my-video {
   position: absolute;
